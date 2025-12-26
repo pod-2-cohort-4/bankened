@@ -35,17 +35,14 @@ build/
 
 backend-key
 
-.env
-*.env 
-src/main/resources/application.properties/
+
+
+
 
 old-src/.env
-src/main/resources/application.properties
 
-*.env*.env
 
-src/.env
-backend-key
-.env
-*.env.env
-.env
+
+
+
+
